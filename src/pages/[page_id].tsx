@@ -72,9 +72,9 @@ export const getStaticPaths: GetStaticPaths<Params> = async () => {
       },
     ],
     filter: {
-      property: "Status",
-      select: {
-        equals: "PUBLISH",
+      property: "Published",
+      checkbox: {
+        equals: true,
       },
     },
   });
