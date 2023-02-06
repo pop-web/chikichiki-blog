@@ -1,9 +1,9 @@
 /* eslint-disable @next/next/no-img-element */
-import type { BookmarkBlockObjectResponse } from '@notionhq/client/build/src/api-endpoints';
-import type { FC } from 'react';
-import type { Ogp } from '~/types/ogp';
+import type { BookmarkBlockObjectResponse } from "@notionhq/client/build/src/api-endpoints";
+import type { FC } from "react";
+import type { Ogp } from "@/types/ogp";
 
-import { Skeleton } from '@mantine/core';
+import { Skeleton } from "@mantine/core";
 
 type Props = {
   block: BookmarkBlockObjectResponse & { ogp?: Ogp };
@@ -14,10 +14,10 @@ export const Bookmark: FC<Props> = ({ block }) => {
     ? block.ogp
     : {
         url: block.bookmark.url,
-        title: '',
-        description: '',
-        imageUrl: '',
-        faviconUrl: '',
+        title: "",
+        description: "",
+        imageUrl: "",
+        faviconUrl: "",
       };
   const noOgp = !ogp.title && !ogp.description && !ogp.imageUrl;
 

@@ -1,8 +1,8 @@
-import type { Editor } from '@tiptap/react';
-import type { FC } from 'react';
+import type { Editor } from "@tiptap/react";
+import type { FC } from "react";
 
-import { getHotkeyHandler } from '@mantine/hooks';
-import { RichTextEditor as TiptapRichTextEditor } from '@mantine/tiptap';
+import { getHotkeyHandler } from "@mantine/hooks";
+import { RichTextEditor as TiptapRichTextEditor } from "@mantine/tiptap";
 
 type Props = {
   editor: Editor | null;
@@ -20,7 +20,7 @@ export const RichTextEditor: FC<Props> = ({ editor, onSubmit, hotkey }) => {
       }
       styles={{
         content: {
-          minHeight: '220px',
+          minHeight: "220px",
         },
       }}
     >
@@ -54,7 +54,9 @@ export const RichTextEditor: FC<Props> = ({ editor, onSubmit, hotkey }) => {
         </TiptapRichTextEditor.ControlsGroup>
       </TiptapRichTextEditor.Toolbar>
 
-      <TiptapRichTextEditor.Content onClick={() => editor?.commands.focus()} />
+      <TiptapRichTextEditor.Content
+      // onClick={() => editor?.commands.focus()}
+      />
     </TiptapRichTextEditor>
   );
 };

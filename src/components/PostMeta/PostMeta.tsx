@@ -8,7 +8,7 @@ import { notionColorToMantineColor } from "@/utils/color";
 
 type Props = {
   meta: NotionPostMeta;
-  commentCount: number;
+  // commentCount: number;
 };
 
 export const PostMeta: FC<Props> = ({
