@@ -17,7 +17,7 @@ export const PostGridItem: FC<Props> = ({ post }) => {
   return (
     <div
       className="h-64 w-64 cursor-pointer rounded bg-white px-5 py-3 shadow transition-shadow hover:shadow-md sp:w-80"
-      onClick={() => router.push(`/posts/${post.id}`)}
+      onClick={() => router.push(`/${post.id}`)}
     >
       <div className="space-y-3">
         <div className="flex justify-between">

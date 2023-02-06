@@ -1,0 +1,189 @@
+{
+  "id": "68efc468-c3e0-4e3a-9c2b-214cc86f3ff3",
+  "icon": "📄",
+  "title": "【今年目標】悪態をつく、言い返さない、いじめようなことは言わないようにする",
+  "date": "2023-01-28",
+  "updatedAt": "2023-01-28",
+  "tags": [
+    {
+      "id": "3e07f169-35b7-43c0-9cfe-8b11559ccf83",
+      "name": "日記",
+      "color": "orange"
+    }
+  ],
+  "description": "自分はどうしてもイライラしているときに人にいじわるをいうような癖があるようだ。特に仲の良い何でも言えるような人に対して。仲のいい人ほど、距離が近い人ほど気をつけるべきなのに時々やっちゃうからなおしたい。...",
+  "children": [
+    {
+      "object": "block",
+      "id": "4bfa80f7-e68b-437f-b4a1-d180423d5c55",
+      "parent": {
+        "type": "page_id",
+        "page_id": "68efc468-c3e0-4e3a-9c2b-214cc86f3ff3"
+      },
+      "created_time": "2023-01-28T16:30:00.000Z",
+      "last_edited_time": "2023-01-28T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "自分はどうしてもイライラしているときに人にいじわるをいうような癖があるようだ。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "自分はどうしてもイライラしているときに人にいじわるをいうような癖があるようだ。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "fcfec85b-d9f8-417a-8296-ad253b97a39a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "68efc468-c3e0-4e3a-9c2b-214cc86f3ff3"
+      },
+      "created_time": "2023-01-28T16:31:00.000Z",
+      "last_edited_time": "2023-01-28T16:32:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "特に仲の良い何でも言えるような人に対して。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "特に仲の良い何でも言えるような人に対して。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "f273fdf4-ee83-4dc2-99af-bed5863d4bee",
+      "parent": {
+        "type": "page_id",
+        "page_id": "68efc468-c3e0-4e3a-9c2b-214cc86f3ff3"
+      },
+      "created_time": "2023-01-28T16:33:00.000Z",
+      "last_edited_time": "2023-01-28T16:33:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "仲のいい人ほど、距離が近い人ほど気をつけるべきなのに時々やっちゃうからなおしたい。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "仲のいい人ほど、距離が近い人ほど気をつけるべきなのに時々やっちゃうからなおしたい。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "83e3271a-201c-4ae9-b72d-996a209dd54b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "68efc468-c3e0-4e3a-9c2b-214cc86f3ff3"
+      },
+      "created_time": "2023-01-28T16:32:00.000Z",
+      "last_edited_time": "2023-01-28T16:34:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "今年の目標はこれにしていいぐらい重要なことなのでこの癖だけはなおしたい。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "今年の目標はこれにしていいぐらい重要なことなのでこの癖だけはなおしたい。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ]
+}

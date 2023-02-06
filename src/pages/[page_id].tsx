@@ -13,9 +13,10 @@ import dummy_notion_post from "@/mocks/notion_post.json";
 import { getChildrenAllInBlock } from "@/lib/notion/blocks";
 import { getDatabaseContentsAll } from "@/lib/notion/databases";
 import { DATABASE_ID } from "@/constants";
-import { getPage } from "~/server/notion/pages";
+import { getPage } from "@/lib/notion/pages";
 import { PostDetailTemplate } from "@/templates/PostDetailTemplate";
 import { toMetaDescription, toPostMeta } from "@/utils/meta";
+import { setOgp } from "@/lib/utils/ogp";
 
 type Params = {
   page_id: string;
@@ -35,9 +36,12 @@ export const getStaticProps = async (context: { params: Params }) => {
     page_id
   )) as NotionBlockObjectResponse[];
 
+  const childrenWithOgp = await setOgp(children);
+
   const post = {
     ...toPostMeta(page),
     description: toMetaDescription(children),
+    children: childrenWithOgp,
   };
 
   return {
@@ -90,8 +94,8 @@ const Post: NextPage<Props> = ({ post }) => {
     <>
       <PostDetailTemplate
         post={post}
-        comments={comments}
-        onSubmit={handleCommentSubmit}
+        // comments={comments}
+        // onSubmit={handleCommentSubmit}
       />
 
       {/* meta seo */}

@@ -14,7 +14,7 @@ import { useMemo, useState } from "react";
 // import { PageTitle } from "~/commons/PageTitle";
 // import { PostsViewControl } from "~/components/features/notionBlog/PostsViewControl";
 import { PostGrid } from "@/components/PostGrid";
-import { PageTitle } from "@/components/PageTitle";
+import { PageTitle } from "@/components/@commons/PageTitle";
 // import { PostList } from "~/features/notionBlog/PostList";
 // import {
 //   getControlledPosts,
