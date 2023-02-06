@@ -21,6 +21,7 @@ import { setOgp } from "@/lib/utils/ogp";
 type Params = {
   page_id: string;
 };
+
 export const getStaticProps = async (context: { params: Params }) => {
   if (process.env.ENVIRONMENT === "local") {
     return {
