@@ -1,3 +1,119 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* local font */
+@font-face {
+  /* 全体に使用 */
+  font-family: 'Noto Sans JP';
+  font-weight: 400;
+  src: url(./Noto_Sans_JP/NotoSansJP-Regular.otf);
+  /* https://fonts.google.com/noto/specimen/Noto+Sans+JP */
+}
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-weight: 500;
+  src: url(./Noto_Sans_JP/NotoSansJP-Medium.otf);
+  /* https://fonts.google.com/noto/specimen/Noto+Sans+JP */
+}
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-weight: 700;
+  src: url(./Noto_Sans_JP/NotoSansJP-Bold.otf);
+  /* https://fonts.google.com/noto/specimen/Noto+Sans+JP */
+}
+@font-face {
+  /* 英語の見出しなどに使用 */
+  font-family: 'ShipporiMincho';
+  font-weight: 400;
+  src: url(./Shippori_Mincho//ShipporiMincho-Medium.ttf);
+  /* https://fonts.google.com/specimen/Shippori+Mincho */
+}
+@font-face {
+  /* 等幅 Codeに使用 */
+  font-family: 'FiraCode VariableFont';
+  font-weight: 400;
+  src: url(./Fira_Code/FiraCode-VariableFont_wght.ttf);
+  /* https://fonts.google.com/specimen/Fira+Code */
+}
+
+body {
+  @apply m-0;
+  @apply text-slate-800;
+  @apply bg-slate-800;
+  font-family: 'Noto Sans JP', sans-serif;
+  position: relative;
+  height: 100%;
+}
+body::before {
+  /* TODO: iosなどのバウンススクロール時の上部のbackground-colorを変更 */
+  content: '';
+  display: block;
+  width: 100%;
+  height: 50vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -10;
+  background-color: #ffedd5;
+}
+
+@layer base {
+  * {
+    @apply box-border;
+  }
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  blockquote {
+    @apply m-0;
+  }
+  a {
+    text-decoration: none;
+  }
+
+  .text-primary {
+    /* text-orange-400; */
+    color: #f97316;
+  }
+  .text-secondary {
+    /* text-slate-800; */
+    color: #1e293b;
+  }
+  .bg-primary {
+    /* text-orange-100; */
+    background-color: #ffedd5;
+  }
+  .bg-secondary {
+    /* text-orange-50; */
+    background-color: #fff7ed;
+  }
+}
+@layer utilities {
+  .title-drop-shadow {
+    filter: drop-shadow(-1px -1px 2px rgb(0 0 0 / 0.1))
+      drop-shadow(1px 1px #1e293b);
+  }
+  .w-main {
+    @apply max-w-[800px];
+    @apply min-w-[375px];
+  }
+  .w-aside {
+    @apply w-[254px];
+    @apply min-w-[254px];
+    @apply hidden;
+    @apply md:block;
+  }
+  .border-box {
+    @apply border-solid;
+    @apply border;
+    @apply border-slate-800;
+    @apply px-4;
+    @apply py-3;
+    @apply rounded;
+  }
+}

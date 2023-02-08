@@ -11,7 +11,7 @@ export const Layout: FC<Props> = ({ children, ...pageProps }) => {
   const router = useRouter();
 
   return (
-    <div className="bg-slate-100">
+    <div className="bg-slate-300">
       <header className="py-1">
         <div
           className={clsx(
@@ -20,7 +20,9 @@ export const Layout: FC<Props> = ({ children, ...pageProps }) => {
           )}
           onClick={() => router.push("/")}
         >
-          <h1 className="font-baloo text-[42px] leading-none">{SITE_TITLE}</h1>
+          <h1 className="font-shipporiMincho font-bold text-[26px] leading-none">
+            {SITE_TITLE}
+          </h1>
         </div>
       </header>
       <main className="relative z-10 mb-40 min-h-[calc(100vh-102px)] w-full bg-slate-100">
