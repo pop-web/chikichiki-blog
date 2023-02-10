@@ -45,9 +45,9 @@ export const blockToJsx = (block: NotionBlockObjectResponse) => {
       return <Bookmark block={block} />;
     case "link_preview":
       return <LinkPreview block={block} />;
-    // case "image":
-    //   // eslint-disable-next-line jsx-a11y/alt-text
-    //   return <Image block={block} />;
+    case "image":
+      // eslint-disable-next-line jsx-a11y/alt-text
+      return <Image block={block} />;
     case "divider":
       return <Divider />;
     case "table_of_contents":

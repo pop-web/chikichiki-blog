@@ -1,8 +1,8 @@
 {
-  "id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4",
+  "id": "caab5a2e-eac3-4149-be14-b9c24d86b3e8",
   "icon": "📄",
-  "title": "【読んだ本】46歳独身男の孤独に負けない生き方 人生はひとり旅",
-  "date": "2023-01-24",
+  "title": "チャイルド・スポンサーシップに参加してみた",
+  "date": "2022-11-30",
   "updatedAt": "2023-02-06",
   "tags": [
     {
@@ -11,17 +11,17 @@
       "color": "orange"
     }
   ],
-  "description": "先日、「46歳独身男の孤独に負けない生き方 人生はひとり旅」という本を読んだので簡単に感想を書いてく。まず、なぜこの本をチョイスしたか。それは自分も独身で天涯孤独の人生なるかもしれないと不安からこの本選んだ。...",
+  "description": "チャイルド・スポンサーシップ参加してみた。たまたまTwitterのタイムラインに参加している人のツイートが流れきて、こういうのあるの知らなくて良いなと思い参加した。...",
   "children": [
     {
       "object": "block",
-      "id": "8a82c2d6-83e0-423e-b682-2c7531374ab4",
+      "id": "899ae382-5db4-4aa1-bfb0-98bbee376f27",
       "parent": {
         "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
+        "page_id": "caab5a2e-eac3-4149-be14-b9c24d86b3e8"
       },
-      "created_time": "2023-01-24T15:11:00.000Z",
-      "last_edited_time": "2023-01-24T15:12:00.000Z",
+      "created_time": "2022-11-30T01:49:00.000Z",
+      "last_edited_time": "2022-11-30T05:07:00.000Z",
       "created_by": {
         "object": "user",
         "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
@@ -38,7 +38,7 @@
           {
             "type": "text",
             "text": {
-              "content": "先日、「46歳独身男の孤独に負けない生き方 人生はひとり旅」という本を読んだので簡単に感想を書いてく。",
+              "content": "チャイルド・スポンサーシップ参加してみた。",
               "link": null
             },
             "annotations": {
@@ -49,7 +49,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "先日、「46歳独身男の孤独に負けない生き方 人生はひとり旅」という本を読んだので簡単に感想を書いてく。",
+            "plain_text": "チャイルド・スポンサーシップ参加してみた。",
             "href": null
           }
         ],
@@ -58,13 +58,45 @@
     },
     {
       "object": "block",
-      "id": "ee7c50a4-5ea8-4887-ba05-56eb236207d3",
+      "id": "002630cd-67d8-4ce8-822b-68d0190ab360",
       "parent": {
         "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
+        "page_id": "caab5a2e-eac3-4149-be14-b9c24d86b3e8"
       },
-      "created_time": "2023-01-24T15:12:00.000Z",
-      "last_edited_time": "2023-01-24T16:30:00.000Z",
+      "created_time": "2022-11-30T05:07:00.000Z",
+      "last_edited_time": "2022-11-30T05:08:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "bookmark",
+      "bookmark": {
+        "caption": [],
+        "url": "https://www.worldvision.jp/childsponsor/"
+      },
+      "ogp": {
+        "url": "https://www.worldvision.jp/childsponsor/",
+        "title": "\n  チャイルド・スポンサーシップとは?｜国際協力NGOワールド・ビジョン・ジャパン\n",
+        "description": "",
+        "imageUrl": "",
+        "faviconUrl": "https://www.google.com/s2/favicons?domain=https://www.worldvision.jp/childsponsor/"
+      }
+    },
+    {
+      "object": "block",
+      "id": "233acd72-f368-4acc-ba20-4562f489e636",
+      "parent": {
+        "type": "page_id",
+        "page_id": "caab5a2e-eac3-4149-be14-b9c24d86b3e8"
+      },
+      "created_time": "2022-11-30T05:03:00.000Z",
+      "last_edited_time": "2022-11-30T05:09:00.000Z",
       "created_by": {
         "object": "user",
         "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
@@ -81,7 +113,7 @@
           {
             "type": "text",
             "text": {
-              "content": "まず、なぜこの本をチョイスしたか。",
+              "content": "たまたまTwitterのタイムラインに参加している人のツイートが流れきて、こういうのあるの知らなくて良いなと思い参加した。",
               "link": null
             },
             "annotations": {
@@ -92,7 +124,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "まず、なぜこの本をチョイスしたか。",
+            "plain_text": "たまたまTwitterのタイムラインに参加している人のツイートが流れきて、こういうのあるの知らなくて良いなと思い参加した。",
             "href": null
           }
         ],
@@ -101,13 +133,13 @@
     },
     {
       "object": "block",
-      "id": "3c79c11e-ad82-4f04-8434-b1a303772371",
+      "id": "b0ad1f64-cd8d-4d44-8779-f0361c61a75d",
       "parent": {
         "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
+        "page_id": "caab5a2e-eac3-4149-be14-b9c24d86b3e8"
       },
-      "created_time": "2023-01-24T16:30:00.000Z",
-      "last_edited_time": "2023-01-24T16:30:00.000Z",
+      "created_time": "2022-11-30T05:05:00.000Z",
+      "last_edited_time": "2022-11-30T05:08:00.000Z",
       "created_by": {
         "object": "user",
         "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
@@ -124,7 +156,7 @@
           {
             "type": "text",
             "text": {
-              "content": "それは自分も独身で天涯孤独の人生なるかもしれないと不安からこの本選んだ。",
+              "content": "たぶんずっと独身だし、少しでも未来のある子供のためになったらいいなとも思ったので。",
               "link": null
             },
             "annotations": {
@@ -135,7 +167,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "それは自分も独身で天涯孤独の人生なるかもしれないと不安からこの本選んだ。",
+            "plain_text": "たぶんずっと独身だし、少しでも未来のある子供のためになったらいいなとも思ったので。",
             "href": null
           }
         ],
@@ -144,692 +176,13 @@
     },
     {
       "object": "block",
-      "id": "87e9b691-28d7-4a02-9b81-07229b90551a",
+      "id": "209b469a-ae42-44fb-a757-cf4b078110b6",
       "parent": {
         "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
+        "page_id": "caab5a2e-eac3-4149-be14-b9c24d86b3e8"
       },
-      "created_time": "2023-01-24T16:30:00.000Z",
-      "last_edited_time": "2023-01-24T16:33:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "この本はYouTuberの方が書いている本で題名の通り中年の独身男性の半生と孤独でもどう生きていくかを書いた本だ。",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "この本はYouTuberの方が書いている本で題名の通り中年の独身男性の半生と孤独でもどう生きていくかを書いた本だ。",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "1a1a0269-1ff3-4564-a6b7-c30b45c58830",
-      "parent": {
-        "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
-      },
-      "created_time": "2023-01-24T16:33:00.000Z",
-      "last_edited_time": "2023-01-24T16:36:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "自分が響いた箇所を抜粋しながら感想を書いていく。",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "自分が響いた箇所を抜粋しながら感想を書いていく。",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "35062f14-af9d-4232-926d-c7d1a136a4c5",
-      "parent": {
-        "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
-      },
-      "created_time": "2023-01-24T16:55:00.000Z",
-      "last_edited_time": "2023-01-24T16:55:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "quote",
-      "quote": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "分かり合えなくても、仲良くなくても、どんな形でも家族は家族",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "分かり合えなくても、仲良くなくても、どんな形でも家族は家族",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "1cd47278-c3b1-4ab4-b89e-26592647ca7c",
-      "parent": {
-        "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
-      },
-      "created_time": "2023-01-24T16:55:00.000Z",
-      "last_edited_time": "2023-01-24T16:57:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "これを読んだ時、涙が少し出た。どう表現していい感情か分からないが何だが感動した。",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "これを読んだ時、涙が少し出た。どう表現していい感情か分からないが何だが感動した。",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "ca8bfdb2-6731-4370-89d4-3875c77386ba",
-      "parent": {
-        "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
-      },
-      "created_time": "2023-01-24T16:37:00.000Z",
-      "last_edited_time": "2023-01-24T16:38:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "quote",
-      "quote": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "言い返した瞬間はスッキリした気分になる。でも根本的な問題は解決していないし、モヤモヤは残る。",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "言い返した瞬間はスッキリした気分になる。でも根本的な問題は解決していないし、モヤモヤは残る。",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "7ee8f9a5-7cb4-4e8e-a8a7-eec3c6e2d88b",
-      "parent": {
-        "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
-      },
-      "created_time": "2023-01-24T16:38:00.000Z",
-      "last_edited_time": "2023-01-24T16:40:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "言い返すってだたの自己満足でしかない。一時的な感情だし後から考えたら大したことがないことの方が多いのかもしれな。",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "言い返すってだたの自己満足でしかない。一時的な感情だし後から考えたら大したことがないことの方が多いのかもしれな。",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "dabd1758-80a8-4100-aeb8-e00d61eecf20",
-      "parent": {
-        "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
-      },
-      "created_time": "2023-01-24T16:40:00.000Z",
-      "last_edited_time": "2023-01-24T16:40:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "quote",
-      "quote": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "文句を言われるよりも、言う人の方がエネルギーを使うのではないか",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "文句を言われるよりも、言う人の方がエネルギーを使うのではないか",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "29ebb626-587d-4745-b921-e0d262623780",
-      "parent": {
-        "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
-      },
-      "created_time": "2023-01-24T16:40:00.000Z",
-      "last_edited_time": "2023-01-24T16:41:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "この気づきは今までなかったのでタメになった。",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "この気づきは今までなかったのでタメになった。",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "aaecdba0-70a6-47c9-8f4a-cb64da6be05f",
-      "parent": {
-        "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
-      },
-      "created_time": "2023-01-24T16:41:00.000Z",
-      "last_edited_time": "2023-01-24T16:41:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "quote",
-      "quote": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "感情的になったら負け。ダメージを受けるのは自分なのだ",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "感情的になったら負け。ダメージを受けるのは自分なのだ",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "5c69a4b7-a971-4a56-8908-e6fb00e7a7da",
-      "parent": {
-        "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
-      },
-      "created_time": "2023-01-24T16:41:00.000Z",
-      "last_edited_time": "2023-01-24T16:42:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "これはマジで自分も前から思っていたこと。しっかりと心に留めておきたいことだ。",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "これはマジで自分も前から思っていたこと。しっかりと心に留めておきたいことだ。",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "7531d9f2-ab93-4f86-b40a-e8ca2140b434",
-      "parent": {
-        "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
-      },
-      "created_time": "2023-01-24T16:43:00.000Z",
-      "last_edited_time": "2023-02-06T16:37:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "quote",
-      "quote": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "言い返さない自分を褒める\n「感情的に言い返さなかった自分の方が正しい」\n嫌なことを言う人は私を傷つけてしようとしたけど、少なくともの私は相手のことを傷つけていないのだから偉いと褒める。",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "言い返さない自分を褒める\n「感情的に言い返さなかった自分の方が正しい」\n嫌なことを言う人は私を傷つけてしようとしたけど、少なくともの私は相手のことを傷つけていないのだから偉いと褒める。",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "b5068069-e234-4bd9-ba6c-dd3d78d1caf1",
-      "parent": {
-        "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
-      },
-      "created_time": "2023-01-24T16:45:00.000Z",
-      "last_edited_time": "2023-01-24T16:48:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "この辺りの内容はとても自分にとっては目から鱗だった。",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "この辺りの内容はとても自分にとっては目から鱗だった。",
-            "href": null
-          },
-          {
-            "type": "text",
-            "text": {
-              "content": "「言い返さない自分を褒める」",
-              "link": null
-            },
-            "annotations": {
-              "bold": true,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "「言い返さない自分を褒める」",
-            "href": null
-          },
-          {
-            "type": "text",
-            "text": {
-              "content": "いうのはかなりいい方法なのではないか。私も本当は人生中で誰も傷つけるようなことはしなくない。でも感情的になってやってしまう自分がいる。でも、言い返さない自分を褒めるという考えを持っていればかなりマシな人間になれるのではないかと思った。",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "いうのはかなりいい方法なのではないか。私も本当は人生中で誰も傷つけるようなことはしなくない。でも感情的になってやってしまう自分がいる。でも、言い返さない自分を褒めるという考えを持っていればかなりマシな人間になれるのではないかと思った。",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "1613cb74-1a7c-4b19-bd11-6581741582db",
-      "parent": {
-        "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
-      },
-      "created_time": "2023-01-24T16:48:00.000Z",
-      "last_edited_time": "2023-01-24T16:49:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "quote",
-      "quote": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "欠点は逆らうもではなく、生かすものだと。欠点を無理に変えようとしたり、否定したりせず、私はそう言う性格なのだと認めて共存していこう。",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "欠点は逆らうもではなく、生かすものだと。欠点を無理に変えようとしたり、否定したりせず、私はそう言う性格なのだと認めて共存していこう。",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "ca91b5b9-9189-43ae-86d9-250fed891c55",
-      "parent": {
-        "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
-      },
-      "created_time": "2023-01-24T16:49:00.000Z",
-      "last_edited_time": "2023-01-24T16:51:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "この考えは自分も常々思っていたことだ。",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "この考えは自分も常々思っていたことだ。",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "4b8ffa75-acc0-4c0f-aca0-734ea0d4a517",
-      "parent": {
-        "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
-      },
-      "created_time": "2023-01-24T16:51:00.000Z",
-      "last_edited_time": "2023-01-24T16:53:00.000Z",
-      "created_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "last_edited_by": {
-        "object": "user",
-        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
-      },
-      "has_children": false,
-      "archived": false,
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "自分の性格が嫌で嫌でコンプレックスを持っていた。少し前までは、それをどうにか排除しようと努力した。でもなかなか排除できないのでその度に苦しんでいた。もうこれは受け入れるしかないと気づいた。月並みな言葉だが、自分と向き合うということだ。自分をよく知ることがうまく生きていけると思う。",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "自分の性格が嫌で嫌でコンプレックスを持っていた。少し前までは、それをどうにか排除しようと努力した。でもなかなか排除できないのでその度に苦しんでいた。もうこれは受け入れるしかないと気づいた。月並みな言葉だが、自分と向き合うということだ。自分をよく知ることがうまく生きていけると思う。",
-            "href": null
-          }
-        ],
-        "color": "default"
-      }
-    },
-    {
-      "object": "block",
-      "id": "f4ad936f-126d-45d0-8636-c22fb6a403e5",
-      "parent": {
-        "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
-      },
-      "created_time": "2023-01-24T16:57:00.000Z",
-      "last_edited_time": "2023-01-24T16:57:00.000Z",
+      "created_time": "2022-11-30T05:22:00.000Z",
+      "last_edited_time": "2022-11-30T05:22:00.000Z",
       "created_by": {
         "object": "user",
         "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
@@ -848,13 +201,13 @@
     },
     {
       "object": "block",
-      "id": "12009757-c7c6-4470-b8bd-4014bff9bda4",
+      "id": "3edb19cb-6cfb-4f1a-bb37-b8b2d4d687f6",
       "parent": {
         "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
+        "page_id": "caab5a2e-eac3-4149-be14-b9c24d86b3e8"
       },
-      "created_time": "2023-01-24T16:57:00.000Z",
-      "last_edited_time": "2023-01-24T16:58:00.000Z",
+      "created_time": "2022-11-30T05:22:00.000Z",
+      "last_edited_time": "2023-02-06T13:38:00.000Z",
       "created_by": {
         "object": "user",
         "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
@@ -871,7 +224,7 @@
           {
             "type": "text",
             "text": {
-              "content": "以上、自分が気に入った箇所だけ感想を書いた。",
+              "content": "今日の昼ごはんは麻婆豆腐を作った。",
               "link": null
             },
             "annotations": {
@@ -882,7 +235,7 @@
               "code": false,
               "color": "default"
             },
-            "plain_text": "以上、自分が気に入った箇所だけ感想を書いた。",
+            "plain_text": "今日の昼ごはんは麻婆豆腐を作った。",
             "href": null
           }
         ],
@@ -891,13 +244,42 @@
     },
     {
       "object": "block",
-      "id": "d082a57d-dcf3-4801-ab3c-69e33e86a0bf",
+      "id": "5fe1db81-d3db-4a6c-b918-b43e08277961",
       "parent": {
         "type": "page_id",
-        "page_id": "e274ab35-2c48-4814-9b29-cd20aa80ebf4"
+        "page_id": "caab5a2e-eac3-4149-be14-b9c24d86b3e8"
       },
-      "created_time": "2023-01-24T16:58:00.000Z",
-      "last_edited_time": "2023-01-24T16:58:00.000Z",
+      "created_time": "2022-12-10T18:03:00.000Z",
+      "last_edited_time": "2022-12-10T18:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
+      },
+      "has_children": false,
+      "archived": false,
+      "type": "image",
+      "image": {
+        "caption": [],
+        "type": "file",
+        "file": {
+          "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5d4c9b09-72e3-41f7-92c3-2dc87b30bd93/IMG_1279%E3%81%AE%E3%82%B3%E3%83%92%E3%82%9A%E3%83%BC.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230210T120731Z&X-Amz-Expires=3600&X-Amz-Signature=9846eafb24e94e1efd20f3ce7f8c885e7db136ea6cf51e3dc1059b2d43c4e792&X-Amz-SignedHeaders=host&x-id=GetObject",
+          "expiry_time": "2023-02-10T13:07:31.557Z"
+        }
+      }
+    },
+    {
+      "object": "block",
+      "id": "37250919-76e7-4804-81a9-565f56047cfd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "caab5a2e-eac3-4149-be14-b9c24d86b3e8"
+      },
+      "created_time": "2022-11-30T01:12:00.000Z",
+      "last_edited_time": "2022-11-30T01:12:00.000Z",
       "created_by": {
         "object": "user",
         "id": "e80d9258-95c6-4571-87d3-7e5e5b83b193"
@@ -910,25 +292,7 @@
       "archived": false,
       "type": "paragraph",
       "paragraph": {
-        "rich_text": [
-          {
-            "type": "text",
-            "text": {
-              "content": "また、感想を書きたい本を読んだらブログに残していこうと思う。",
-              "link": null
-            },
-            "annotations": {
-              "bold": false,
-              "italic": false,
-              "strikethrough": false,
-              "underline": false,
-              "code": false,
-              "color": "default"
-            },
-            "plain_text": "また、感想を書きたい本を読んだらブログに残していこうと思う。",
-            "href": null
-          }
-        ],
+        "rich_text": [],
         "color": "default"
       }
     }
