@@ -19,7 +19,7 @@ export const Image: FC<Props> = ({ block }) => {
   const [isError, setIsError] = useState(false);
 
   return (
-    <div className="relative mx-auto aspect-square max-w-[520px]">
+    <div className="relative mx-auto my-3 aspect-square max-w-[520px]">
       <NextImage
         className="object-contain"
         src={url}
