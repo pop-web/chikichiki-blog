@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next-sitemap --config next-sitemap.js",
     "start": "next start",
     "lint": "next lint"
   },
@@ -36,6 +36,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
+    "next-sitemap": "^3.1.52",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.4"
   }
