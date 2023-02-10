@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://chikichiki.dev/
+
+# Sitemaps
+Sitemap: https://chikichiki.dev/sitemap.xml
