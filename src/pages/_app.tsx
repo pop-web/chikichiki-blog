@@ -1,5 +1,6 @@
-import { Layout } from "@/components/@layouts/Layout";
 import "@/styles/globals.css";
+
+import { Layout } from "@/components/@layouts/Layout";
 import NextNProgress from "nextjs-progressbar";
 
 import { AppProps } from "next/app";
