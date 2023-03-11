@@ -55,7 +55,7 @@ body::before {
   top: 0;
   left: 0;
   z-index: -10;
-  background-color: #ffedd5;
+  background-color: #cbd5e1;
 }
 
 @layer base {
@@ -86,7 +86,7 @@ body::before {
   }
   .bg-primary {
     /* text-orange-100; */
-    background-color: #ffedd5;
+    background-color: #cbd5e1;
   }
   .bg-secondary {
     /* text-orange-50; */
